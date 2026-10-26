@@ -1,0 +1,10 @@
+VERIFICACIÓN LOYMAR V22
+
+Productos en base: 1339
+Códigos primera columna únicos: 1339
+Códigos internos únicos: 1339
+Fotos vinculadas: 133
+Archivos de foto conservados: 176
+Fotos conservadas sin vínculo: 43
+
+La base sustituye por completo la lista anterior. Las imágenes con código interno coincidente quedan vinculadas; las demás se conservan pero no se asignan a un producto de esta base.

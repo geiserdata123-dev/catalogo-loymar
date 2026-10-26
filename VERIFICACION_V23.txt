@@ -1,0 +1,24 @@
+VERIFICACIÓN LOYMAR V23
+
+Base de productos
+- Productos: 1339
+- Códigos de barras únicos: 1339
+- Códigos internos únicos: 1339
+
+Repositorio nuevo
+- Archivo: productos.rar
+- Imágenes WEBP originales: 900
+- Imágenes WEBP validadas: 900
+- Nombres que coinciden exactamente con un código interno de la nueva base: 684
+- Imágenes del repositorio sin producto coincidente: 216
+
+Conservación y vínculos
+- Fotos anteriores v22 que no estaban en el RAR y se conservaron: 1
+- Total de imágenes dentro de V23/productos: 901
+- Productos con imagen vinculada: 684
+- Archivos conservados sin vínculo: 217
+- Referencias a imágenes inexistentes: 0
+- Coincidencias en las que se asignó un producto equivocado por aproximación: 0 (solo coincidencia exacta de código interno)
+- Imágenes compartidas con v22 que se reemplazaron por versiones del repositorio: 2
+
+La versión utiliza LOYMAR_CATALOG_LOCAL_V23 y la caché lo que evita reutilizar directamente las claves y caché de v22.
